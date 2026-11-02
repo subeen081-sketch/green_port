@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-Regular.otf) format(opentype);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-Thin.otf) format(opentype);
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-ExtraLight.otf) format(opentype);
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-Light.otf) format(opentype);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-Medium.otf) format(opentype);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-SemiBold.otf) format(opentype);
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-Bold.otf) format(opentype);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-ExtraBold.otf) format(opentype);
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'pretendard';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/Pretendard-Black.otf) format(opentype);
+    font-weight: 900;
+}
+
+/* 장식체 */
+@font-face {
+    font-family: 'myfont';
+    /* ttf: truetype, otf: opentype, woff: woff woff2:woff2 */
+    src: url(../fonts/뚝딱감자체.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
